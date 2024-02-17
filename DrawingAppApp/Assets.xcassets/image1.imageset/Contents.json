@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "LAMASSU A lamassu is a powerful guardian spirit from ancient Mesopotamia, most prominently featured in Assyrian culture. Imagine a majestic creature with the head of a human (wisdom), the body of .png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
